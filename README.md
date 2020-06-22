@@ -1,8 +1,7 @@
 # SQL_PROJECT
-SQL zoo (MySQL) Queries
-MySQL query Challenge [answer sheet]
-This project inolves completing SQL challenges from the SQL ZOO website. Each tutorial consists of series of querries from the list below. 
+This project inolves completing SQL challenges from the SQL ZOO website. Each tutorial consists of series of querries from the list below.
 
+```
 SELECT basics
 SELECT FROM world
 SELECT FROM nobel
@@ -13,14 +12,16 @@ More JOIN
 Using NULL
 Self JOIN
 
+```
+
 Authors
 👤 Kamilu Adewale
-
+```
 Github: @githubhandle
 Twitter: @twitterhandle
 Linkedin: linkedin
 Email: Email
-
+```
 🤝 Contributing
 Contributions, issues and feature requests are welcome!
 
